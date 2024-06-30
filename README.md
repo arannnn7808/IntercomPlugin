@@ -1,6 +1,6 @@
 # IntercomPlugin
 
-![downloads](https://img.shields.io/github/downloads/arannnn7808/IntercomPlugin/total?style=for-the-badge)
+![downloads](https://img.shields.io/github/downloads/arannnn7808/IntercomPlugin/total)
 
 Changes yours server Intercom, you have a translations file, to change the language that you want.
 
