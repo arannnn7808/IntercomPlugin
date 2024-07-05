@@ -8,7 +8,7 @@ Minimum Exiled Version: 8.9.5
 
 Config:
 
-```cs
+```yaml
 intercomplugin:
 
   information: '------------------Information------------------'
