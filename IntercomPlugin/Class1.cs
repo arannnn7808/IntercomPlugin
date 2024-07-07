@@ -9,7 +9,7 @@ namespace IntercomPlugin
         public override string Name { get; } = "IntercomPlugin";
         public override string Author { get; } = "Aran";
         public override string Prefix { get; } = "intercomplugin";
-        public override Version Version { get; } = new Version(1, 0, 1);
+        public override Version Version { get; } = new Version(1, 0, 2);
         public override Version RequiredExiledVersion { get; } = new Version(8, 9, 5);
         
         private static Harmony harmony;
