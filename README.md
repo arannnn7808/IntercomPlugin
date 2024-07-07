@@ -6,7 +6,7 @@ Changes yours server Intercom, you have a translations file, to change the langu
 
 Minimum Exiled Version: 8.9.5
 
-Config:
+### Translations Config:
 
 ```yaml
 intercomplugin:
