@@ -1,4 +1,4 @@
-# IntercomPlugin
+# IntercomPlugin for EXILED
 
 ![downloads](https://img.shields.io/github/downloads/arannnn7808/IntercomPlugin/total)
 
