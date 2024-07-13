@@ -4,7 +4,7 @@
 
 Changes yours server Intercom, you have a translations file, to change the language that you want.
 
-Minimum Exiled Version: 8.9.5
+Minimum Exiled Version: 8.9.7
 
 ### Translations Config:
 
