@@ -45,7 +45,7 @@
         <HintPath>..\..\referenciasrider\scpsl\0Harmony.dll</HintPath>
       </Reference>
       <Reference Include="Assembly-CSharp">
-        <HintPath>..\..\referenciasrider\scpsl\Assembly-CSharp-Publicized.dll</HintPath>
+        <HintPath>..\..\..\Desktop\exiled\referencias exiled\Assembly-CSharp-Publicized.dll</HintPath>
       </Reference>
       <Reference Include="Assembly-CSharp-firstpass">
         <HintPath>..\..\referenciasrider\scpsl\Assembly-CSharp-firstpass.dll</HintPath>
@@ -83,8 +83,8 @@
       <Reference Include="Exiled.Permissions">
         <HintPath>..\..\referenciasrider\exiled\Exiled.Permissions.dll</HintPath>
       </Reference>
-      <Reference Include="Facepunch.Steamworks.Posix">
-        <HintPath>..\..\referenciasrider\scpsl\Facepunch.Steamworks.Posix.dll</HintPath>
+      <Reference Include="Facepunch.Steamworks.Win64">
+        <HintPath>..\..\..\Desktop\exiled\referencias exiled\Facepunch.Steamworks.Win64.dll</HintPath>
       </Reference>
       <Reference Include="Mirror">
         <HintPath>..\..\referenciasrider\scpsl\Mirror.dll</HintPath>
@@ -110,11 +110,17 @@
       <Reference Include="Pooling">
         <HintPath>..\..\referenciasrider\scpsl\Pooling.dll</HintPath>
       </Reference>
+      <Reference Include="SemanticVersioning">
+        <HintPath>..\..\..\Desktop\exiled\referencias exiled\exiled\SemanticVersioning.dll</HintPath>
+      </Reference>
       <Reference Include="System">
         <HintPath>..\..\referenciasrider\scpsl\System.dll</HintPath>
       </Reference>
       <Reference Include="System.ComponentModel.Composition">
         <HintPath>..\..\referenciasrider\scpsl\System.ComponentModel.Composition.dll</HintPath>
+      </Reference>
+      <Reference Include="System.ComponentModel.DataAnnotations">
+        <HintPath>..\..\..\Desktop\exiled\referencias exiled\exiled\System.ComponentModel.DataAnnotations.dll</HintPath>
       </Reference>
       <Reference Include="System.Configuration">
         <HintPath>..\..\referenciasrider\scpsl\System.Configuration.dll</HintPath>

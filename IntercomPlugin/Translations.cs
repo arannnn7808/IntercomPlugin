@@ -5,6 +5,7 @@ namespace IntercomPlugin
     public sealed class Translations : ITranslation
     {
         
+        public string RoundTimer { get; set; } = "Round Timer";
         public string Information { get; set; } = "------Information------";
         public string ClassDText { get; set; } = "Class-D";
         
