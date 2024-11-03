@@ -1,4 +1,4 @@
-#The repository will no longer be updated. Thanks to all the people for using it.
+# The repository will no longer be updated. Thanks to all the people for using it.
 
 # IntercomPlugin for EXILED
 
