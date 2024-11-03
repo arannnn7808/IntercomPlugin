@@ -1,3 +1,5 @@
+#The repository will no longer be updated. Thanks to all the people for using it.
+
 # IntercomPlugin for EXILED
 
 ![downloads](https://img.shields.io/github/downloads/arannnn7808/IntercomPlugin/total)
